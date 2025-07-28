@@ -1,0 +1,13 @@
+rtl/asyn_fifo.v
+rtl/fifo_mem.v
+rtl/rptr_handler.v
+rtl/synchronizer.v
+rtl/wptr_handler.v
+rtl/receiver.v
+rtl/transmitter.v
+rtl/uart_control.v
+rtl/baud_gen.v
+tb/uart_control_tb.sv
+tb/fifo_tb.sv
+tb/receiver_tb.sv
+tb/transmitter_tb.sv
